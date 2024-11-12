@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leo!
+# 👋 Hi, I'm Leo ~
 
 ## About Me :
 <em>✨ **Embracing the YOLO lifestyle and passionate about learning new things!** </em>
