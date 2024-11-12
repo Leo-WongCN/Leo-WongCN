@@ -9,8 +9,9 @@
 
 * 🧐   Interested in a Data Analyst/Engineer position
 * 🎓   Bachelor of International Hotel and Tourism Management, University of Queensland.
-* 🌱   Continue my journey into the depths of Python and SQL!
-
+* 🌱   Continue my journey into the depths of Python and SQL ! 
+* 📫 To reach me: [Instagram](https://instagram.com/firstleoleo) [Gmail](https://gmail.com/wongleocn@gmail.com)**
+* 
 <h2 align="center">✦ Skill Sets ✦</h2>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
