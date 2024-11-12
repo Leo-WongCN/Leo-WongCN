@@ -2,7 +2,7 @@
 
 <em>✨ **Embracing the YOLO lifestyle and passionate about learning new things!** </em>
 
-🌟 ****Connect with Me :**** 🌟
+## Connect with Me :
 
 
 <p align="left">
