@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h2 align="left">🌟 Connect with Me! 🌟</h2>
+<h2 align="left">🌟 ** Connect with Me! ** 🌟</h2>
 
 
 <p align="left">
@@ -10,7 +10,7 @@
 * 🧐   Interested in a Data Analyst/Engineer position
 * 🎓   Bachelor of International Hotel and Tourism Management, University of Queensland.
 * 🌱   Continue my journey into the depths of Python and SQL ! 
-* 📫  ✨ **Follow me on Instagram:** [**@firstleoleo**](https://instagram.com/firstleoleo)
+* 📫   Follow me on Instagram: [**@firstleoleo**](https://instagram.com/firstleoleo)
 
   
 <h2 align="center">✦ Skill Sets ✦</h2>
