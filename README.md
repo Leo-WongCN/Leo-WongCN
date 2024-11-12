@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 
 <p align="left">
@@ -11,7 +11,7 @@
 * 🎓   Bachelor of International Hotel and Tourism Management, University of Queensland.
 * 🌱   Continue my journey into the depths of Python and SQL!
 
-<h3 align="center">✦ Skill Sets ✦</h3>
+<h2 align="center">✦ Skill Sets ✦</h2>
 
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
