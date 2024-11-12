@@ -1,4 +1,6 @@
-**Hi, I'm Leo. 🤙 YOLO lifestyle that loves learning New things. Looking for a data career ~**
+# 👋 Hi, I'm Leo!
+
+<em>✨ Embracing the YOLO lifestyle and passionate about learning new things!</em>
 
 🌟 ****Connect with Me :**** 🌟
 
