@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leo!
 
-<em>✨ Embracing the YOLO lifestyle and passionate about learning new things!</em>
+<em>✨ **Embracing the YOLO lifestyle and passionate about learning new things!** </em>
 
 🌟 ****Connect with Me :**** 🌟
 
