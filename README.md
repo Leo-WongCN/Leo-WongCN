@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Leo!
 
+<p align="center">
 ## About Me :
+</p>
 <em>✨ **Embracing the YOLO lifestyle and passionate about learning new things!** </em>
 
+<p align="center">
 ## Connect with Me :
-
-
-<p align="left">
 </p>
 
 * 🧐   Interested in a Data Analyst/Engineer position
